@@ -1,0 +1,6 @@
+name: ExampleMinigame
+version: 1.0
+main: nl.bramkoene.exampleminigame.ExampleMinigame
+api-version: 1.13
+depend: [MiniGameAPI]
+description: An example usage of the minigame api

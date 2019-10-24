@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="target\ExampleMinigame-1.0.jar" tofile="TestServer/plugins/ExampleMinigame-1.0.jar"/>
+</target>
+</project>
