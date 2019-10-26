@@ -1,0 +1,67 @@
+Games:
+  ExampleMinigamemyarena:
+    kit:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    spawns:
+    - ==: org.bukkit.Location
+      world: world
+      x: -276.50191554410003
+      y: 71.0
+      z: 240.8709941353136
+      pitch: 21.900051
+      yaw: 177.75201
+    - ==: org.bukkit.Location
+      world: world
+      x: -276.50191554410003
+      y: 71.0
+      z: 240.8709941353136
+      pitch: 21.900051
+      yaw: 177.75201
+    - ==: org.bukkit.Location
+      world: world
+      x: -276.50191554410003
+      y: 71.0
+      z: 240.8709941353136
+      pitch: 21.900051
+      yaw: 177.75201
+    - ==: org.bukkit.Location
+      world: world
+      x: -276.50191554410003
+      y: 71.0
+      z: 240.8709941353136
+      pitch: 21.900051
+      yaw: 177.75201
+    lobby:
+      ==: org.bukkit.Location
+      world: world
+      x: -276.50191554410003
+      y: 71.0
+      z: 240.8709941353136
+      pitch: 21.900051
+      yaw: 177.75201
